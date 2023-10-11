@@ -1,5 +1,5 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/stream-content-from-a-remote-catalog-with-addressables/).
-> 
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
+
 # Introduction
 
 Having the ability to load content into a game without forcing the user to download an update is critical to keeping players engaged. There are a lot of different use cases for this. You might want to swap out some models and textures so that they match the holiday season. Or, you can also use this technique to reduce the initial download time of your game by packaging only a couple of levels and assets. Then you can rely on Addressables and a CDN to download the remaining game behind the scenes while they are playing.
